@@ -1,0 +1,5 @@
+C:\zEdu\4_Lecture\HW04ConsoleInputOutput\P12FallingRocks\bin\Debug\P12FallingRocks.exe
+C:\zEdu\4_Lecture\HW04ConsoleInputOutput\P12FallingRocks\bin\Debug\P12FallingRocks.pdb
+C:\zEdu\4_Lecture\HW04ConsoleInputOutput\P12FallingRocks\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\zEdu\4_Lecture\HW04ConsoleInputOutput\P12FallingRocks\obj\x86\Debug\P12FallingRocks.exe
+C:\zEdu\4_Lecture\HW04ConsoleInputOutput\P12FallingRocks\obj\x86\Debug\P12FallingRocks.pdb
